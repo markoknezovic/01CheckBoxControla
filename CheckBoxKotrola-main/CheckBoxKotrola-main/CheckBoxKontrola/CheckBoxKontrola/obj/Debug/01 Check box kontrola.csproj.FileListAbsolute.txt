@@ -1,0 +1,9 @@
+C:\Users\Učenik 4\source\repos\01 Check box kontrola\01 Check box kontrola\bin\Debug\01 Check box kontrola.exe.config
+C:\Users\Učenik 4\source\repos\01 Check box kontrola\01 Check box kontrola\bin\Debug\01 Check box kontrola.exe
+C:\Users\Učenik 4\source\repos\01 Check box kontrola\01 Check box kontrola\bin\Debug\01 Check box kontrola.pdb
+C:\Users\Učenik 4\source\repos\01 Check box kontrola\01 Check box kontrola\obj\Debug\01 Check box kontrola.csprojAssemblyReference.cache
+C:\Users\Učenik 4\source\repos\01 Check box kontrola\01 Check box kontrola\obj\Debug\_01_Check_box_kontrola.Form1.resources
+C:\Users\Učenik 4\source\repos\01 Check box kontrola\01 Check box kontrola\obj\Debug\_01_Check_box_kontrola.Properties.Resources.resources
+C:\Users\Učenik 4\source\repos\01 Check box kontrola\01 Check box kontrola\obj\Debug\01 Check box kontrola.csproj.GenerateResource.cache
+C:\Users\Učenik 4\source\repos\01 Check box kontrola\01 Check box kontrola\obj\Debug\01 Check box kontrola.exe
+C:\Users\Učenik 4\source\repos\01 Check box kontrola\01 Check box kontrola\obj\Debug\01 Check box kontrola.pdb
